@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice To Meet You!.</h1>
 
 
-<p>Welcome to my page! </br> I'm Ahmed, Fullstack developer from 🇨🇦 <b>Ottawa, Canada</b>.</p>
+<p>I'm <b>Ahmed</b>, Fullstack developer from 🇨🇦 <b>Ottawa, Canada</b>.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
