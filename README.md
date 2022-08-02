@@ -4,6 +4,13 @@
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="280" height="280"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ahmedalba/">
+    <img src="https://img.shields.io/badge/hackerrank-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+
+
 <!--
 **AhmedAlbarghouti/AhmedAlbarghouti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
