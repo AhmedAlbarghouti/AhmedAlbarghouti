@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="480" height="480"/>
+</div>
+
 <!--
 **AhmedAlbarghouti/AhmedAlbarghouti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
