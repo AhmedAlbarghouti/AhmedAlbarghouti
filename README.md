@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="280" height="280"/>
@@ -11,7 +11,12 @@
   
  </div>
  <img src="https://komarev.com/ghpvc/?username=your-github-ahmedalbarghouti&style=flat-square&color=blue" alt="Views Badge"/>
-
+  
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  
   </div>
 <!--
 **AhmedAlbarghouti/AhmedAlbarghouti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
