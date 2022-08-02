@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.hackerrank.com/ahmedalbarghou/">
-    <img src="https://img.shields.io/badge/-HackerRank-lightgrey" alt="HackerRank Badge"/>
+    <img src="https://img.shields.io/badge/-HackerRank-lightgreystyle=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
   
  </div>
