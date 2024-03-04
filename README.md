@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice To Meet You!</h1>
 
 
-<p>I'm <b>Ahmed</b>, Fullstack developer from 🇨🇦 <b>Ottawa, Canada</b>.</p>
+<p>I'm <b>Ahmed</b>, Engineer from 🇨🇦 <b>Ottawa, Canada</b>.</p>
 
 
 <h3>What Do I Do</h3>
-<p>Programmer at Medavie Blue Cross 🏥 (Health Insurance Company)</p>
+<p>Full Stack Engineer at Medavie Blue Cross 🏥 (Health Insurance Company)</p>
 <p>Freelance End-To-End Developer (Design/Development/Deployment)</p>
 
 <h3>Where To Find Me<h3>
